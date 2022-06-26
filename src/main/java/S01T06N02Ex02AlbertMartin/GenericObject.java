@@ -1,26 +1,9 @@
 package S01T06N02Ex02AlbertMartin;
 
-public class GenericObject<T, S, U> {
+public class GenericObject<T>{
 
-    private T t;
-    private S s;
-    private U u;
-    private String profession;
-
-    public GenericObject(T t, U u, S s, String profession) {
-        this.t = t;
-        this.s = s;
-        this.u = u;
-        this.profession = profession;
+    @SafeVarargs
+    public GenericObject(T[]... ts) {
     }
 
-    @Override
-    public String toString() {
-        return
-                "\n{t= " + t +
-                "\ns= " + s +
-                "\nu= " + u +
-                "\nprofession= " + profession + '}';
-
-    }
 }

@@ -1,15 +1,17 @@
-package S01T06N01Ex02AlbertMartin;
+package S01T06N02Ex01AlbertMartin;
 
 public class GenericObject<T, S, U> {
 
     private T t;
     private S s;
     private U u;
+    private String profession;
 
-    public GenericObject(T t, U u, S s) {
+    public GenericObject(T t, U u, S s, String profession) {
         this.t = t;
         this.s = s;
         this.u = u;
+        this.profession = profession;
     }
 
     @Override
@@ -17,7 +19,8 @@ public class GenericObject<T, S, U> {
         return
                 "\n{t= " + t +
                 "\ns= " + s +
-                "\nu= " + u +'}';
+                "\nu= " + u +
+                "\nprofession= " + profession + '}';
 
     }
 }

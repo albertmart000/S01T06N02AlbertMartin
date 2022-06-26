@@ -1,4 +1,4 @@
-package S01T06N01Ex02AlbertMartin;
+package S01T06N02Ex01AlbertMartin;
 
 public class Person {
 

@@ -11,8 +11,8 @@ public class GenericMethods {
     private static GenericObject getGenericObject(Integer... integers) {
         GenericObject genericObject= new GenericObject<>(integers);
         System.out.println("Els arguments de GenericObject son:");
-        for (int i = 0; i < integers.length; i++)
-            System.out.println("- " + integers[i]);
+        for (Integer integer : integers)
+            System.out.println("- " + integer);
 
         return genericObject;
     }

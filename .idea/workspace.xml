@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09271b0d-b8b0-4a60-a82d-45b57b6ccc17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S01T06N02Ex01AlbertMartin/GenericMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S01T06N02Ex01AlbertMartin/GenericObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S01T06N02Ex01AlbertMartin/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S01T06N02Ex02AlbertMartin/GenericMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S01T06N02Ex02AlbertMartin/GenericObject.java" afterDir="false" />
+    <list default="true" id="09271b0d-b8b0-4a60-a82d-45b57b6ccc17" name="Changes" comment="N02 de T06 finalitzat">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S01T06N02Ex01AlbertMartin/GenericMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S01T06N02Ex01AlbertMartin/GenericMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S01T06N02Ex01AlbertMartin/GenericObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S01T06N02Ex01AlbertMartin/GenericObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S01T06N02Ex01AlbertMartin/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S01T06N02Ex01AlbertMartin/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S01T06N02Ex02AlbertMartin/GenericMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S01T06N02Ex02AlbertMartin/GenericMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/S01T06N02Ex02AlbertMartin/GenericObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/S01T06N02Ex02AlbertMartin/GenericObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,8 +91,16 @@
       <workItem from="1655874742931" duration="3276000" />
       <workItem from="1655966530803" duration="6592000" />
       <workItem from="1656066481640" duration="40000" />
-      <workItem from="1656260711231" duration="12565000" />
+      <workItem from="1656260711231" duration="13023000" />
     </task>
+    <task id="LOCAL-00001" summary="N02 de T06 finalitzat">
+      <created>1656273734405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656273734405</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="N02 de T06 finalitzat" />
+    <option name="LAST_COMMIT_MESSAGE" value="N02 de T06 finalitzat" />
   </component>
 </project>
